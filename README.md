@@ -1,4 +1,4 @@
-Data visualization is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization.
+**Data visualization** is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization.
 
 With interactive visualization, we can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data we see and how it’s processed.
  
