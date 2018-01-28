@@ -105,7 +105,8 @@ Below is a 3D surface plot that generates a surface for given points along X, Y 
 
 ![Alt text](https://github.com/Souvikray/DataVisualization/blob/master/screenshot10.png?raw=true "Optional Title")
 
-Now let us do some real world analysis of data.I have implemented a scatter plot to display word frequency for a given word in a book.
+
+Now let us do some real world analysis of data.I have implemented a ```scatter plot``` to display word frequency for a given word in a book.
 
 The book is titled 'The Art of Public Speaking' by Dale Carnegie (it is an amazing book by the way!) available for free from the website [www.gutenberg.org](http://www.gutenberg.org).You can use the Linux commad below to download the content of the book and save it to a .txt file.
 
